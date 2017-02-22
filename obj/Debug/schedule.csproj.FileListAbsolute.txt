@@ -1,0 +1,10 @@
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\schedule.exe.config
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\schedule.exe
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\schedule.pdb
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\obj\Debug\schedule.csprojResolveAssemblyReference.cache
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\obj\Debug\schedule.exe
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\obj\Debug\schedule.pdb
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\files\готовое.csv
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\files\расписание.csv
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\files\судьи.csv
+C:\Users\irikg_000\Source\Repos\iriks-referee-assigner\schedule\bin\Debug\files\судьи1.csv
